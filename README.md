@@ -5,7 +5,6 @@ Used semantic HTML codes to make sure the webpage follows accessibility standard
 * General Info
 * Screenshot
 * Project Status
-* Room for Improvements
 * Link to Deployed Application
 
 
@@ -18,13 +17,10 @@ Used semantic HTML codes to make sure the webpage follows accessibility standard
 
 
 ## Screenshot
-The following screenshot demonstrates the web application's appearance. 
 ! [Example screenshot One](images/screenshotone.png)
 ! [Example screenshot Two](images/screenshot2.png)
 
 ## Project Status
 Project is: complete
-
-## Rooom for Improvement
 
 ## Link to Deployed Application
