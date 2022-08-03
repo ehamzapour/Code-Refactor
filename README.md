@@ -10,16 +10,17 @@ Used semantic HTML codes to make sure the webpage follows accessibility standard
 
 
 ## General Information
-Corrected image tags for images to appear.
-Changed title name.
-Added comments in CSS.
-Corrected heading attributes.
-Added "id" attribute to line 29.
+* Corrected image tags for images to appear.
+* Changed title name.
+* Added comments in CSS.
+* Corrected heading attributes.
+* Added "id" attribute to line 29.
 
 
 ## Screenshot
 The following screenshot demonstrates the web application's appearance. 
-! [Example screenshot] (./image/sc)
+! [Example screenshot One](images/screenshotone.png)
+! [Example screenshot Two](images/screenshot2.png)
 
 ## Project Status
 Project is: complete
