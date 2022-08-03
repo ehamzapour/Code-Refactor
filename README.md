@@ -24,3 +24,4 @@ Used semantic HTML codes to make sure the webpage follows accessibility standard
 Project is: complete
 
 ## Link to Deployed Application
+https://ehamzapour.github.io/Horiseon-Code-Refactor/
